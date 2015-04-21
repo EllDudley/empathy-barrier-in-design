@@ -6,7 +6,7 @@ For instance, let's look at probably the best user experience in the world, a Go
 
 <img src="http://wscont1.apps.microsoft.com/winstore/1x/23c9542d-c7d2-4ad1-96c9-896a3a4f849b/Screenshot.24261.1000001.jpg"> 
 
-Google's designers are some of the best in the world. And as you can screen, their simplicity is beautiful. Copious amounts of time have been spent to make this page the way it is today.
+Google's designers are some of the best in the world. And as you can see, their simplicity is beautiful. Copious amounts of time have been spent to make this page the way it is today.
 
 The thing that is missing is the lack of empathy with the user. While Google’s user experience is seamless and accurate, it doesn’t seem to account for the individual’s emotions, motives, and thoughts. It doesn’t reach that next level and that’s not their fault.
 
